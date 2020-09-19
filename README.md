@@ -11,4 +11,4 @@ Skills: JavaScript / REACT / Node.JS / HTML / CSS/ Data Science /Cloud Computing
 
 ![Profile views](https://gpvc.arturio.dev/shivisingh28)  
 
-[![Shivangi's github stats](https://github-readme-stats.vercel.app/api?username=shivisingh28)](https://github.com/anuraghazra/github-readme-stats)
+![Shivangi's github stats](https://github-readme-stats.vercel.app/api?username=shivisingh28&show_icons=true&theme=radical)
