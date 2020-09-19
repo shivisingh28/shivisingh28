@@ -1,8 +1,15 @@
-### Hi there 👋, Shivangi Singh
+### Hi there 👋, Shivangi Singh 👩
 #### I am a Front-end Developer.
 I am a tech-enthusiast and like to explore new technologies .  I like working on challenging projects and improving my skills each day.
 
-Skills: JavaScript / REACT / Node.JS / HTML / CSS/ Data Science /Cloud Computing
+<strong>Skills<strong>
+ ✅ JavaScript 
+ ✅ REACT 
+ ✅ Node.JS 
+ ✅ HTML 
+ ✅ CSS 
+ ✅ Data Science
+ ✅ Cloud Computing
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivisingh28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivangi-singh-b65381158/)  
