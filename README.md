@@ -14,4 +14,4 @@ Skills: JavaScript / REACT / Node.JS / HTML / CSS/ Data Science /Cloud Computing
 ![Shivangi's github stats](https://github-readme-stats.vercel.app/api?username=shivisingh28&show_icons=true&theme=radical)
 
 
-<img src="https://i.pinimg.com/originals/6a/bd/a8/6abda87684b0fe5a097930d00eb5d7ee.gif" alt='github'/>
+<img src="https://i.pinimg.com/originals/6a/bd/a8/6abda87684b0fe5a097930d00eb5d7ee.gif" alt='github' display='flex'/>
