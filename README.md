@@ -1,5 +1,5 @@
 ### Hi there 👋, Shivangi Singh 👩
-#### I am a Front-end Developer.
+#### I am a Front-end Developer 💻
 I am a tech-enthusiast and like to explore new technologies .  I like working on challenging projects and improving my skills each day.
 
 <strong>Skills<strong>
